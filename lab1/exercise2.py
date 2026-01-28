@@ -4,5 +4,5 @@ def print_factor(x):
 	for i in range (2, x):
 		if x % i == 0:
 			print (i)
-#test
+#test number because it donot have a test number to test function
 print_factor(52633)
