@@ -12,3 +12,4 @@ for num in l:
 	print (f"Factors of {num}: ")
 	print_factor(num)
 	print ()
+

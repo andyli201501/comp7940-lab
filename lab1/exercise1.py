@@ -3,5 +3,6 @@
 x = 52633
 for i in range(2, x):
     # your code here
+
 	if x % i == 0:
 		print (i)
