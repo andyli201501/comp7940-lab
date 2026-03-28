@@ -1,3 +1,12 @@
-lab2/config.ini
+# ignore all config files
+config.ini
+
+# python env
 venv/
-lab3/config.ini
+
+# python cache
+__pycache__/
+*.pyc
+
+# docker export
+chatbot.tar
